@@ -1,6 +1,6 @@
-# 3dPrintCovid
+# Covid3dPrinting
 
-A Collection of 3D Printing resources to support the COVID-19 outbreak.
+A Collection of 3D Printing resources to support fighting the COVID-19 outbreak.
 
 ## Respirator
 - [Field Respirator](https://enable.hp.com/us-en-3dprint-COVID-19-containment-applications)
