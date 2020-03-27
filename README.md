@@ -8,3 +8,6 @@ A Collection of 3D Printing resources to support the COVID-19 outbreak.
 ## Face Sheilds
 - [PRUSA Designs](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc3)
 - [Budmen](https://budmen.com/)
+
+## Handsfree Door Openers
+- [Materialise Hands Free Door Opener](https://www.materialise.com/en/hands-free-door-opener/technical-information)
