@@ -37,6 +37,10 @@ To order shields fill out this form and we will reach out to you for more inform
 
 https://airtable.com/shrcEbbkFpjdrOjtY
 
+
+## I don't have a 3D printer, how can I get involved?
+You dont need a 3D Printer to build a shield and save a life. The NYU has designed a great design that needs no 3d printing. [Check it out here](https://open-face-website.now.sh/) 
+
 ## I have a printer, how can I get involved
 
 You have 2 options to get involved:
