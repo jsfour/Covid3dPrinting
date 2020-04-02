@@ -17,11 +17,11 @@ Enter the face shield.
 
 A face shield acts as a barrier that prevents splatter from getting on the doctor or nurses face --or the mask that is on their face. This means that the shield ends up being a hack that allows the N95 masks that doctors do have to be reused.
 
-## When are the shields used?
+## How are the shields used?
 
-Shields are used during procedures or while doctors are doing "intubation" --putting a tube the patents airway so that the patient can get help breathing from a machine.
+Shields are used during procedures that involve aerosolizing fluids or while doctors are doing  an “intubation" --putting a tube the patents airway so that the patient can get help breathing from a machine.
 
-The intubation process can sometimes cause splatter. If the patient has COVID-19 or something else this splatter could infect the doctor.
+The intubation process, I’m addition to other procedures, can sometimes cause splatter. If the patient has COVID-19 or something else this splatter could infect the doctor.
 
 ## Can't hospitals buy shields?
 
