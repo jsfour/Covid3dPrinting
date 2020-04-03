@@ -7,7 +7,7 @@ If you have any additional questions please reach out.
 ## Why shields? I heard doctors need masks?
 The N95 masks that doctors wear are designed to be single use but the supplies are very limited.
 
-These N95 masks are super critical in helping prevent doctors from getting sick, but with the supply and logistics constraints of getting new masks in the field single use masks is not feasible. The result is that doctors end up reusing masks that they have used before which increases the risk that the doctor could get sick.
+These N95 masks are super critical in helping prevent doctors from getting sick, but with the supply and logistics constraints of getting new masks in the field using a mask one time is not feasible. The result is that doctors end up reusing masks that they have used before which increases the risk that the doctor could get sick.
 
 Making N95 masks in the field is also not feasible due to the standards that the mask needs to have.
 
