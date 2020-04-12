@@ -32,7 +32,7 @@ The result is that doctors are going into doing their work without the things th
 ## Are you selling the shields?
 No. I'm giving them away. Prioritizing county and underfunded hospitals first since they are likely to have limited mask supply.
 
-## I'm a doctor and want to order shields for my team or myself
+## I'm a medical worker and want to order shields for my team or myself
 To order shields fill out this form and we will reach out to you for more information:
 
 https://airtable.com/shrcEbbkFpjdrOjtY
@@ -49,17 +49,17 @@ You have 2 options to get involved:
 
 ## Print details
 
-Right now I am printing the Budmen Design that I've tweaked to optimize print speed for my printer.
+Right now I am printing the 3DVerkstan Design.
 
-[You can get the original design here](https://www.dropbox.com/s/icm135ow10v0qm4/budmen-face-shield-v4.zip?dl=0)
+[You can get the original design here](https://3dverkstan.se/protective-visor/protective-visor-versions/)
 
-Print time on my PRUSA I3 MK2s takes about 1.5 hour per unit, I can get better efficiency by printing 2 units at a time.
+Print time on my PRUSA I3 MK2s takes about 40 min per unit, I can get better efficiency by printing 2 units at a time.
 
 Settings:
 - PLA Filament (https://www.amazon.com/HATCHBOX-3D-Filament-Dimensional-Accuracy/dp/B00MEZEEJ2?ref_=ast_sto_dp)
 - 0.3 layer height
-- 10% infill
-- 2mm Skirt
+- 20% infill
+- No Skirt
 - No Brim
 - No Supports
 
